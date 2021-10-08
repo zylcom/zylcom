@@ -1,16 +1,12 @@
-### Hi there 👋
+# About Me
 
-<!--
-**zylcom/zylcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👋 Hi, I’m Sabilillah a.k.a. @zylcom
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript Framework
+- 💞️ I’m looking to collaborate on Web Development
+- 🤔 I’m looking for help with my code
+- ⚡ Fun fact: I Love Coding
+- 📫 How to reach me
+  - IG: [@sabil_272](http://www.instagram.com/sabil_272/)
+  - FB: [Sabil](https://www.facebook.com/sabil.sabil.7731247)
+  - WA: [+6283806163238](https://wa.me/+6283806163238)
