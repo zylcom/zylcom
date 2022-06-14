@@ -9,4 +9,3 @@
 - 📫 How to reach me
   - IG: [@sabil_272](http://www.instagram.com/sabil_272/)
   - FB: [Sabil](https://www.facebook.com/sabilillah272)
-  - WA: [+6283806163238](https://wa.me/+6283806163238)
