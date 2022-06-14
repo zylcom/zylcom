@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with my code
 - ⚡ Fun fact: I Love Coding
 - 📫 How to reach me
-  - IG: [@sabil_272](http://www.instagram.com/sabil_272/)
+  - IG: [@sabil_272](https://www.instagram.com/sabil_272)
   - FB: [Sabil](https://www.facebook.com/sabilillah272)
