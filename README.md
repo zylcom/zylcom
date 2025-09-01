@@ -3,7 +3,7 @@ I'm a self-taught passionate Web Developer from Indonesia
 
 **About me**
 
-- 💼 Web Developer at [UPMedia](https://dirandrasatumedia.com/)
+- 💼 Web Developer as a Freelancer
 
 - 📈 Built many web project
 
